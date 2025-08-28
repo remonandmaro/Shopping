@@ -4710,23 +4710,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\remon\\.nuget\\packages\\": {},
+    "C:\\Users\\maroa\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\remon\\OneDrive\\Desktop\\ERPSystem\\ERPSystem.csproj",
+      "projectUniqueName": "D:\\_Work\\ERP\\ERPSystem.csproj",
       "projectName": "ERPSystem",
-      "projectPath": "C:\\Users\\remon\\OneDrive\\Desktop\\ERPSystem\\ERPSystem.csproj",
-      "packagesPath": "C:\\Users\\remon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\remon\\OneDrive\\Desktop\\ERPSystem\\obj\\",
+      "projectPath": "D:\\_Work\\ERP\\ERPSystem.csproj",
+      "packagesPath": "C:\\Users\\maroa\\.nuget\\packages\\",
+      "outputPath": "D:\\_Work\\ERP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\remon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\maroa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
