@@ -2,6 +2,7 @@
 {
     public class General
     {
+        //Remon
         public int Id { get; set; }
         public string Mobile { get; set; } = string.Empty;
         public string MainTitle { get; set; } = string.Empty;
